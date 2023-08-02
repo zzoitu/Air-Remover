@@ -19,7 +19,9 @@ You can install the python package using this pip command: pip install pydub
 
 you will also need ffmpeg (required for reading/writing audio files in various formats)
 
-to install ffmpeg all the files you will need are in bin you just need to add them to your system path to do this
+to install ffmpeg you will need to do download it from the site https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-6.0-essentials_build.zip
+
+then drag the bin folder to where ever you want then
 
 go to system on your windows then on the right click Advanced system settings https://imgur.com/kkkwD8A 
 
